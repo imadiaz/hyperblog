@@ -3,3 +3,9 @@ body{
     text-align: center;
     font-family: Arial;
 }
+.container {
+    text-align: center;
+    margin-top: 40;
+    background-color: blueviolet;
+    color: black;
+}
