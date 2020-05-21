@@ -1,3 +1,4 @@
 La historia de ima
 nacio en morelos tengo 21
 y estoy en platzi
+cursando la ruta de aprendizaje de git
